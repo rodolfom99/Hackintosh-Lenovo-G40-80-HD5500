@@ -50,9 +50,9 @@ Nota/Note|##
 ```
 efi base pattern above
 ```
-Dar exemplos
+constructionconstructionconstructionconstruction
 ```
-hahaha
+constructionconstructionconstruction
 
 ```
 Até finalizar
@@ -62,11 +62,11 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+constructionconstructionconstructionconstructionconstructionconstructionconstruction
 
 ### 🔩 Analise os testes de ponta a ponta
 
-Explique que eles verificam esses testes e porquê.
+constructionconstructionconstructionconstruction
 
 ```
 Dar exemplos
@@ -82,15 +82,15 @@ Dar exemplos
 
 ## 📦 Desenvolvimento
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+constructionconstructionconstructionconstruction
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+constructionconstructionconstruction
 
-* [D/1frweb usadoghg
-* [npendênciaghgh
-* a gerar RSSfghfh
+* constructionconstructionconstruction
+* constructionconstruction
+* construction
 
 ## 🖇️ Colaborando
 
