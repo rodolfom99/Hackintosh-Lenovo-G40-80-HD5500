@@ -26,13 +26,19 @@ Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algu
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
 ## DSDT + DSDT PATCH
-## Kext
-Note|.
+SSDT-PLUG-DRTNIA
+SSDT-EC-LAPTOP
+SSDT-PNLF
+SSDT-XOSI
+dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.
+## Kexts
+Note|##
 :---|:---
-[Lilu Kext](https://github.com/acidanthera/Lilu/releases)|.
-[SMC Processor, VirtualSMC, SMCsuperIO](https://github.com/acidanthera/VirtualSMC/releases)|.
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)|.
-
+[Lilu Kext](https://github.com/acidanthera/Lilu/releases)
+[SMC Processor, VirtualSMC, SMCsuperIO](https://github.com/acidanthera/VirtualSMC/releases)|
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)|
+[AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
+[RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 ## Drivers
 ```
 Dar exemplos
