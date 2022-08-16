@@ -83,6 +83,9 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
+## 📌 LINK 
+Esses guias me deram um Norte:
+[upupming](https://github.com/upupming/Lenovo-G50-80-Clover.git)
+[Gabriel Luchina](https://github.com/rodolfom99/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
+[Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
