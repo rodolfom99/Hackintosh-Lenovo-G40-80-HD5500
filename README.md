@@ -38,7 +38,7 @@ SSDT-EC-LAPTOP (for Broadwell and older)|[Prebuild](https://github.com/dortania/
 SSDT-PNLF (Luz de fundo)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
 SSDT-XOSI|[Prebuild](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad)
 dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.
-## Kexts
+## ⚙️ Kexts
 Nota/Note|##
 :---|:---
 [Lilu Kext](https://github.com/acidanthera/Lilu/releases)
@@ -46,7 +46,9 @@ Nota/Note|##
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)|
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
-## Drivers
+## 🔧 Drivers
+```
+efi base pattern above
 ```
 Dar exemplos
 ```
