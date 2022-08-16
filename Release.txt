@@ -1,0 +1,16 @@
+Update .0.1.0
+AAPL,ig-platform-id = 06002616
++ framebuffers
+device-id = 26160000 (even being compatible and necessary to add)
+= Intel hd 5500 fixed
+
+Update 0.2.0:
+Added patch: 
+HPET _CRS to XCRS Rename
+Audio corrected with patch + alcid 3
+Update 0.3.0:
+
+add sdst.dl
+ADD patch Brightkeys = brilho no f11 e f12
+Fixed backlight and baterry control 
+batery = active trackpad todas funçoes
