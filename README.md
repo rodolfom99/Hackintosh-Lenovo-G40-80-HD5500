@@ -16,16 +16,19 @@ RAM: 8GB (2X4)
 AUDIO: Conexant ;;;;
 ETHERNET: RTL8111
 ```
-### 📋 Pré-requisitos
-De que coisas você precisa para instalar o software e como instalá-lo?
-Open core used version 0.8.3
+### 📋 EFI BASE (Open core 0.8.3)
+Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
+https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git
 
+Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algumas modificações.
 ### 🔧 Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
-Diga como essa etapa será:
-
+## DSDT + DSDT PATCH
+## Kext
+[lilu kext]_https://github.com/acidanthera/Lilu/releases
+## Drivers
 ```
 Dar exemplos
 ```
