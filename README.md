@@ -16,13 +16,13 @@ RAM: 8GB (2X4)
 AUDIO: Conexant ;;;;
 ETHERNET: RTL8111
 ```
-### 📋 EFI BASE (Open core 0.8.3)
+### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
-[GabrielLuchina](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
+[luchina-gabriel](https://github.com/luchina-gabriel)
 
-[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+### 📋 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
-[Propertree](https://github.com/corpnewt/ProperTree)
+### 📋 [Propertree](https://github.com/corpnewt/ProperTree)
 
 Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algumas modificações.
 ### 🔧 Instalação
