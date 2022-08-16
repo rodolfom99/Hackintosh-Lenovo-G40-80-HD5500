@@ -21,13 +21,14 @@ Ethernet: RTL8111
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
 [luchina-gabriel](https://github.com/luchina-gabriel)
+Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algumas modificações.
 
 ### 📋 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 Note que a SMBIOS gerada para essa EFI é genérica e precisa ser substituída no config.plist assim que o macOS for instalado. gere seus próprios valores com o GenSMBIOS e os insira no arquivo por meio do ProperTree.
 
 ### 📋 [Propertree](https://github.com/corpnewt/ProperTree)
 
-Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algumas modificações.
+
 ### 🔧 Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
