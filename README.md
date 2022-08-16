@@ -11,11 +11,11 @@ Essa Geração de processadores Intel Broadwell e um pouco complicada, tem vario
 ## Specs:
 ```
 Modelo: Lenovo G40-80
-CPU: I3-5005U 
-Graphics: Intel HD Graphics 5500
-Drive: SSD Kingston 128gb
-RAM: 8GB (2X4)
-Audio: Conexant ;;;;
+CPU: I3-5005U
+Graphics: Intel HD Graphics 5500 
+Drive: SSD Kingston 128gb 
+RAM: 8GB (2X4) 
+Audio: Conexant 
 Ethernet: RTL8111
 ```
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
@@ -51,24 +51,17 @@ Nota/Note|##
 ## 🔧 Drivers
 ```
 efi base pattern above
-```
-constructionconstructionconstructionconstruction
-```
-constructionconstructionconstruction
 
 ```
 Até finalizar
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
 ## ⚙️ Executando os testes
-
-constructionconstructionconstructionconstructionconstructionconstructionconstruction
+n
 
 ### 🔩 Analise os testes de ponta a ponta
-
-constructionconstructionconstructionconstruction
+n
 
 ```
 Dar exemplos
@@ -79,24 +72,28 @@ Dar exemplos
 Explique que eles verificam esses testes e porquê.
 
 ```
-Dar exemplos
+26262
 ```
+## Funcionando ✅
+Adapter WIFI tplink: ✅
+Hd Graphics 5500: ✅
+Webcam: ✅
+Brightness Control: ✅
+Audio: ✅
 
-## 📦 Desenvolvimento
+## 📦 Desenvolvimento / Ainda não Funciona
 
-constructionconstructionconstructionconstruction
+WIFI: não e compativel, tentei trocar para intel mas a bios rejeitou. ❌
+Bluetooth: não consegui, creio que não e compativel. ❌
+Hd Graphics: Funciona, Mas desempenho está ruim (tentando corrigir) ⚠️
+Sleeping: Ao dormir ele reinicia (tentando corrigir) ⚠️
+Mensagem de falha ao desligar incorretamente (tentando corrigir)⚠️
+
 
 ## 🛠️ Construído com
 
-constructionconstructionconstruction
-
-* constructionconstructionconstruction
-* constructionconstruction
-* construction
 
 ## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 LINK 
 Esses guias me deram um Norte:
