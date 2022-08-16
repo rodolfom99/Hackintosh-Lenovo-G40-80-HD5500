@@ -104,3 +104,4 @@ Esses guias me deram um Norte:
 
 [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
+[prabhjot--singh](https://www.reddit.com/r/hackintosh/comments/hkp7bh/opencore_059_lenovo_g4080_finally_on_catalina/)
