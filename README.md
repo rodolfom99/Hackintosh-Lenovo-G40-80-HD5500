@@ -10,11 +10,11 @@ Essa Geração de processadores Intel Broadwell e um pouco complicada, tem vario
 ```
 Modelo: Lenovo G40-80
 CPU: I3-5005U 
-GRAPHICS: Intel HD Graphics 5500
-DRIVE: SSD Kingston 128gb
+Graphics: Intel HD Graphics 5500
+Drive: SSD Kingston 128gb
 RAM: 8GB (2X4)
-AUDIO: Conexant ;;;;
-ETHERNET: RTL8111
+Audio: Conexant ;;;;
+Ethernet: RTL8111
 ```
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
@@ -48,8 +48,6 @@ Note|##
 Dar exemplos
 ```
 hahaha
-
-E repita:
 
 ```
 Até finalizar
@@ -85,9 +83,9 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [D/1.0 frweb usadoghg
-* [Mavennpendênciaghgh
-* [Rromepara gerar RSSfghfh
+* [D/1frweb usadoghg
+* [npendênciaghgh
+* a gerar RSSfghfh
 
 ## 🖇️ Colaborando
 
