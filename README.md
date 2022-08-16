@@ -18,7 +18,7 @@ ETHERNET: RTL8111
 ```
 ### 📋 EFI BASE (Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
-https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git
+[GabrielLuchina](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
 
 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
