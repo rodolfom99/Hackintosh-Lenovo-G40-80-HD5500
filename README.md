@@ -23,6 +23,7 @@ Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
 [luchina-gabriel](https://github.com/luchina-gabriel)
 
 ### 📋 [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+Note que a SMBIOS gerada para essa EFI é genérica e precisa ser substituída no config.plist assim que o macOS for instalado. gere seus próprios valores com o GenSMBIOS e os insira no arquivo por meio do ProperTree.
 
 ### 📋 [Propertree](https://github.com/corpnewt/ProperTree)
 
