@@ -8,9 +8,13 @@ Update 0.2.0:
 Added patch: 
 HPET _CRS to XCRS Rename
 Audio corrected with patch + alcid 3
-Update 0.3.0:
 
+Update 0.3.0:
 add sdst.dl
 ADD patch Brightkeys = brilho no f11 e f12
 Fixed backlight and baterry control 
 batery = active trackpad todas funçoes
+
+Pausa de 1 semana para descansar...
+
+Update 0.4.0 breve...
