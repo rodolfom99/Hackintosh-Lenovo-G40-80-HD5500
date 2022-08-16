@@ -6,7 +6,16 @@ Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou
 ## 🚀 Começando
 
 Essa Geração de processadores Intel Broadwell e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
-
+## Specs:
+```
+Modelo: Lenovo G40-80
+CPU: I3-5005U 
+GRAPHICS: Intel HD Graphics 5500
+DRIVE: SSD Kingston 128gb
+RAM: 8GB (2X4)
+AUDIO: Conexant ;;;;
+ETHERNET: RTL8111
+```
 ### 📋 Pré-requisitos
 De que coisas você precisa para instalar o software e como instalá-lo?
 Open core used version 0.8.3
