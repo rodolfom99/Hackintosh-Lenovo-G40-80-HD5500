@@ -8,9 +8,8 @@ Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou
 Essa Geração de processadores Intel Broadwell e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
 
 ### 📋 Pré-requisitos
-
 De que coisas você precisa para instalar o software e como instalá-lo?
-OPEN CORE
+Open core used version 0.8.3
 
 ### 🔧 Instalação
 
@@ -21,6 +20,7 @@ Diga como essa etapa será:
 ```
 Dar exemplos
 ```
+hahaha
 
 E repita:
 
