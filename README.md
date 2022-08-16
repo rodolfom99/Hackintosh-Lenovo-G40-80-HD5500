@@ -1,5 +1,5 @@
 IT'S NOT FINISHED / NÃO ESTÁ PRONTO
-# Lenovo G40-80 hackintosh laptop with Open Core. Português/English.
+# Lenovo G40-80 hackintosh laptop with Open Core. Português/English (coming soon).
 ![Screen Shot 2022-08-09 at 07 26 11](https://user-images.githubusercontent.com/111351901/184874734-33abe973-97cc-4b47-b708-f5dd3a31f458.png)"
 
 
