@@ -27,7 +27,9 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 
 ## DSDT + DSDT PATCH
 ## Kext
-[lilu kext].(https://github.com/acidanthera/Lilu/releases)
+[Lilu Kext](https://github.com/acidanthera/Lilu/releases)
+[SMC Processor, VirtualSMC, SMCsuperIO](https://github.com/acidanthera/VirtualSMC/releases)
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)
 ## Drivers
 ```
 Dar exemplos
