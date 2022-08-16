@@ -20,6 +20,10 @@ ETHERNET: RTL8111
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
 https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git
 
+[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+[Propertree](https://github.com/corpnewt/ProperTree)
+
 Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algumas modificações.
 ### 🔧 Instalação
 
