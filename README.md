@@ -71,7 +71,7 @@ Dar exemplos
 
 Explique que eles verificam esses testes e porquê.
 
-```
+
 26262
 ```
 ## Funcionando ✅
@@ -98,10 +98,12 @@ Mensagem de falha ao desligar incorretamente (tentando corrigir)⚠️
 ## 📌 LINK 
 Esses guias me deram um Norte:
 
-[upupming](https://github.com/upupming/Lenovo-G50-80-Clover.git)
+[upupming] (https://github.com/upupming/Lenovo-G50-80-Clover.git)
 
-[Gabriel Luchina](https://github.com/rodolfom99/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
+[Gabriel Luchina] (https://github.com/rodolfom99/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
 
-[Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+[Dortania Guide] (https://dortania.github.io/OpenCore-Install-Guide/)
 
-[prabhjot--singh](https://www.reddit.com/r/hackintosh/comments/hkp7bh/opencore_059_lenovo_g4080_finally_on_catalina/)
+[prabhjot--singh] (https://www.reddit.com/r/hackintosh/comments/hkp7bh/opencore_059_lenovo_g4080_finally_on_catalina/)
+
+[RehabMan] (https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/)
