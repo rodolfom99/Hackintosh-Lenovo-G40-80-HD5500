@@ -85,6 +85,7 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 ## 📌 LINK 
 Esses guias me deram um Norte:
+
 [upupming](https://github.com/upupming/Lenovo-G50-80-Clover.git)
 
 [Gabriel Luchina](https://github.com/rodolfom99/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)
