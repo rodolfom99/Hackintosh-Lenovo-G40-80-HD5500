@@ -52,12 +52,10 @@ Nota/Note|##
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 ## 🔧 Drivers
-```
+
 efi base pattern above
 
-```
 Até finalizar
-```
 
 
 ## ⚙️ Executando os testes
@@ -74,9 +72,6 @@ Dar exemplos
 
 Explique que eles verificam esses testes e porquê.
 
-
-26262
-```
 ## Funcionando ✅
 Adapter WIFI tplink: ✅
 
