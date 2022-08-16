@@ -30,13 +30,16 @@ Porem a EFI do repositorio do Gabriel e para desktop, então temos de fazer algu
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
 ## DSDT + DSDT PATCH
-SSDT-PLUG-DRTNIA
-SSDT-EC-LAPTOP
-SSDT-PNLF
-SSDT-XOSI
+Nota/Note|Link
+:---|:---
+ALL SSDTs |[SSDTs](https://dortania.github.io/Getting-Started-With-ACPI/ssdt-platform.html#desktop)
+SSDT-PLUG-DRTNIA|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml)
+SSDT-EC-LAPTOP (for Broadwell and older)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-LAPTOP.aml)
+SSDT-PNLF (Luz de fundo)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
+SSDT-XOSI|[Prebuild](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad)
 dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.
 ## Kexts
-Note|##
+Nota/Note|##
 :---|:---
 [Lilu Kext](https://github.com/acidanthera/Lilu/releases)
 [SMC Processor, VirtualSMC, SMCsuperIO](https://github.com/acidanthera/VirtualSMC/releases)|
