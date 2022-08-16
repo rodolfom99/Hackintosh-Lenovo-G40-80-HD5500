@@ -1,3 +1,4 @@
+IT'S NOT FINISHED / NÃO ESTÁ PRONTO
 # Lenovo G40-80 hackintosh laptop with Open Core. Português/English.
 
 Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui.
