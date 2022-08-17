@@ -77,7 +77,7 @@ Brightness Control: ✅
 Audio: ✅
 ```
 ## 📦 Desenvolvimento / Ainda não Funciona
-
+```
 WIFI: não e compativel, tentei trocar para intel mas a bios rejeitou. ❌
 
 Bluetooth: não consegui, creio que não e compativel. ❌
@@ -87,7 +87,7 @@ Hd Graphics: Funciona, Mas desempenho está ruim (tentando corrigir) ⚠️
 Sleeping: Ao dormir ele reinicia (tentando corrigir) ⚠️
 
 Mensagem de falha ao desligar incorretamente (tentando corrigir)⚠️
-
+```
 
 ## 🛠️ Construído com
 
