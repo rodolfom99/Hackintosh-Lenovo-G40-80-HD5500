@@ -44,7 +44,7 @@ SSDT-PLUG-DRTNIA|[Prebuild](https://github.com/dortania/Getting-Started-With-ACP
 SSDT-EC-LAPTOP (for Broadwell and older)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-LAPTOP.aml)
 SSDT-PNLF (Luz de fundo)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
 SSDT-XOSI|[Prebuild](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad)
-dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.
+dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.| SÓ use no POST INSTALL caso contrario apague e dê clean snapshot.
 ## ⚙️ Kexts
 Nota/Note|##
 :---|:---
