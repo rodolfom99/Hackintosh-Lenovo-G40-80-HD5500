@@ -7,7 +7,7 @@ Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou
 
 ## 🚀 Começando
 
-Essa Geração de processadores Intel Broadwell e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
+Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
 ## Specs:
 ```
 Modelo: Lenovo G40-80
@@ -15,8 +15,10 @@ CPU: I3-5005U
 Graphics: Intel HD Graphics 5500 
 Drive: SSD Kingston 128gb 
 RAM: 8GB (2X4) 
-Audio: Conexant 
+Audio: Conexant CX20751/2
 Ethernet: RTL8111
+Bluetooth: Atheros AR3012
+WIFI: Atheros AR9565
 ```
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
@@ -53,24 +55,14 @@ Nota/Note|##
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
 ## 🔧 Drivers
 
-efi base pattern above
-
-Até finalizar
-
+Padrão da EFI utilizada como base.
 
 ## ⚙️ Executando os testes
-n
 
 ### 🔩 Analise os testes de ponta a ponta
-n
 
-```
-Dar exemplos
-```
 
 ### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
 
 ## Funcionando ✅
 Adapter WIFI tplink: ✅
