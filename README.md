@@ -44,6 +44,7 @@ SSDT-PLUG-DRTNIA|[Prebuild](https://github.com/dortania/Getting-Started-With-ACP
 SSDT-EC-LAPTOP (for Broadwell and older)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-LAPTOP.aml)
 SSDT-PNLF (Luz de fundo)|[Prebuild](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml)
 SSDT-XOSI|[Prebuild](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad)
+SSDT-
 dsdt-dl (Compilado Manualmente para funcionar teclas de brilho f11/f12.| SÓ use no POST INSTALL caso contrario apague e dê clean snapshot.
 ## ⚙️ Kexts
 Nota/Note|##
@@ -53,6 +54,7 @@ Nota/Note|##
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)|
 [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
 [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
+[EC-Enabler
 ## 🔧 Drivers
 
 Padrão da EFI utilizada como base.
@@ -62,7 +64,9 @@ Padrão da EFI utilizada como base.
 ### 🔩 Analise os testes de ponta a ponta
 
 
-### ⌨️ E testes de estilo de codificação
+### ⌨️ Post Install:
+framebuffer-unifiedmem | Data | 00000040 = 1024MB / 00000060 = 1536MB / 00000080 = 2048MB / 000000A0 = 2560MB / 000000C0 = 3072MB / 000000E0 = 3584MB / FFFFFFFF = 4096MB
+Adicionando a opção acima no config.plist e possivel aumentar a memoria da GPU integrada, eu testei apenas 2048mb.
 
 ## Funcionando ✅
 ```
