@@ -72,13 +72,16 @@ Adicionando a opção acima no config.plist e possivel aumentar a memoria da GPU
 ```
 Adapter WIFI tplink: ✅
 
-Hd Graphics 5500: ✅
+Hd Graphics 5500: ✅ 
+Não achei bom para jogos.(I didn't find it good for games)
 
 Webcam: ✅
 
 Brightness Control: ✅
 
 Audio: ✅
+
+Mensagem de falha ao desligar incorretamente (Corrigido)✅
 ```
 ## 📦 Desenvolvimento / Ainda não Funciona
 ```
@@ -86,12 +89,9 @@ WIFI: não e compativel, tentei trocar para intel mas a bios rejeitou. ❌
 
 Bluetooth: não consegui, creio que não e compativel. ❌
 
-Hd Graphics: Funciona, Mas desempenho está ruim (tentando corrigir) ⚠️
-
-Sleeping: Ao dormir ele reinicia (tentando corrigir) ⚠️
-
-Mensagem de falha ao desligar incorretamente (tentando corrigir)⚠️
+Sleeping: Ao acordar do sleep ele reinicia. (tentando corrigir) ⚠️
 ```
+
 
 ## 🛠️ Construído com
 
