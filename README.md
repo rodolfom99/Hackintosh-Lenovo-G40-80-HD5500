@@ -5,7 +5,7 @@ IT'S NOT FINISHED / NÃO ESTÁ PRONTO
 
 Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui. Caso seu notebook não seja igual o meu mas seja broadwell e provavel que funcione algumas coisas, outras não.
 
-## 🚀 Começando
+## 🚀 Começando / NOTE ⚠️
 ```ATENÇÃO PARA CATALINA OU VERSOES ANTERIORES E NESCESSARIO ADICIONAR NA MINHA EFI MinDate and MinVersion in UEFI > APFS to -1 e também SecureBootModel in Misc > Security to j137. para bigsur ou posterior ignore.```
 
 Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
