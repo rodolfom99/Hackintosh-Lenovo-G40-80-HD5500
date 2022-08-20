@@ -19,6 +19,7 @@ Audio: Conexant CX20751/2 ✅
 Ethernet: RTL8111 ✅
 Bluetooth: Atheros AR3012 ❌
 WIFI: Atheros AR9565 ❌
+WIFI DONGLE TP-LINK TL-WN725N ✅
 ```
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
