@@ -3,11 +3,12 @@ IT'S NOT FINISHED / NÃO ESTÁ PRONTO
 ![Captura de Tela 2022-08-20 às 10 51 45](https://user-images.githubusercontent.com/111351901/185749437-bbb26309-79bb-45c9-84ed-d2d623dab7e2.png)
 
 
-Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui.
+Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui. Caso seu notebook não seja igual o meu mas seja broadwell e provavel que funcione algumas coisas, outras não.
 
 ## 🚀 Começando
-ATENÇÃO PARA CATALINA OU VERSOES ANTERIORES E NESCESSARIO ADICIONAR NA MINHA EFI MinDate and MinVersion in UEFI > APFS to -1 e também SecureBootModel in Misc > Security to j137. para bigsur ou posterior ignore.
+```ATENÇÃO PARA CATALINA OU VERSOES ANTERIORES E NESCESSARIO ADICIONAR NA MINHA EFI MinDate and MinVersion in UEFI > APFS to -1 e também SecureBootModel in Misc > Security to j137. para bigsur ou posterior ignore.```
 Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
+``` CASO USE ESSA EFI, RETIRE O DSDT-DL E DE CLEAN SNAPSHOT. MESMO ELA SENDO COMPILADA PARA MEU NOTEBOOK ME ATRAPALHOU A DAR BOOT PELO PENDRIVE.```
 ## Specs:
 ```
 Modelo: Lenovo G40-80
