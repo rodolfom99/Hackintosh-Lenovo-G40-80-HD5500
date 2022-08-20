@@ -11,14 +11,14 @@ Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem var
 ## Specs:
 ```
 Modelo: Lenovo G40-80
-CPU: I3-5005U
-Graphics: Intel HD Graphics 5500 
-Drive: SSD Kingston 128gb 
-RAM: 8GB (2X4) 
-Audio: Conexant CX20751/2
-Ethernet: RTL8111
-Bluetooth: Atheros AR3012
-WIFI: Atheros AR9565
+CPU: I3-5005U ✅
+Graphics: Intel HD Graphics 5500 ✅
+Drive: SSD Kingston 128gb ✅
+RAM: 8GB (2X4) ✅
+Audio: Conexant CX20751/2 ✅
+Ethernet: RTL8111 ✅
+Bluetooth: Atheros AR3012 ❌
+WIFI: Atheros AR9565 ❌
 ```
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
