@@ -1,6 +1,6 @@
 IT'S NOT FINISHED / NÃO ESTÁ PRONTO
 # Lenovo G40-80 hackintosh laptop with Open Core 0.8.3 Português/English (coming soon).
-![Screen Shot 2022-08-09 at 07 26 11](https://user-images.githubusercontent.com/111351901/184874734-33abe973-97cc-4b47-b708-f5dd3a31f458.png)"
+![Captura de Tela 2022-08-20 às 10 51 45](https://user-images.githubusercontent.com/111351901/185749437-bbb26309-79bb-45c9-84ed-d2d623dab7e2.png)
 
 
 Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui.
