@@ -5,11 +5,6 @@ IT'S NOT FINISHED / NÃO ESTÁ PRONTO
 
 Depois de Diversas Tentativas, consegui ajustar razoavelmente meu hakintosh, vou deixando aqui a minha EFI base e as Atualizações, juntamente com os detalhes de como cheguei até aqui. Caso seu notebook não seja igual o meu mas seja broadwell e provavel que funcione algumas coisas, outras não.
 
-## 🚀 Começando / NOTE ⚠️
-```ATENÇÃO PARA CATALINA OU VERSOES ANTERIORES E NESCESSARIO ADICIONAR NA MINHA EFI MinDate and MinVersion in UEFI > APFS to -1 e também SecureBootModel in Misc > Security to j137. para bigsur ou posterior ignore.```
-
-Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
-``` CASO USE ESSA EFI, RETIRE O DSDT-DL E DE CLEAN SNAPSHOT. MESMO ELA SENDO COMPILADA PARA MEU NOTEBOOK ME ATRAPALHOU A DAR BOOT PELO PENDRIVE.```
 ## Specs:
 ```
 Modelo: Lenovo G40-80
@@ -23,6 +18,13 @@ Bluetooth: Atheros AR3012 ❌
 WIFI: Atheros AR9565 ❌
 WIFI DONGLE TP-LINK TL-WN725N ✅
 ```
+
+## 🚀 Começando / NOTE ⚠️
+```ATENÇÃO PARA CATALINA OU VERSOES ANTERIORES E NESCESSARIO ADICIONAR NA MINHA EFI MinDate and MinVersion in UEFI > APFS to -1 e também SecureBootModel in Misc > Security to j137. para bigsur ou posterior ignore.```
+
+Essa Geração de processadores Intel Broadwell-U e um pouco complicada, tem varios problemas a se ajustar, fiquei dias por exemplo para conseguir o gráfico integrado haha.
+``` CASO USE ESSA EFI, RETIRE O DSDT-DL E DE CLEAN SNAPSHOT. MESMO ELA SENDO COMPILADA PARA MEU NOTEBOOK ME ATRAPALHOU A DAR BOOT PELO PENDRIVE.```
+
 ### 📋 [EFI BASE](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-5THGEN-BROADWELL.git)(Open core 0.8.3)
 Creditos ao Gabriel luchina pela EFI base e pelo tutorial.
 [luchina-gabriel](https://github.com/luchina-gabriel)
